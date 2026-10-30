@@ -1,2 +1,2 @@
-# ohtuvarasto software eng.
-![GitHub Actions Status](https://github.com/Rishi005/ohtuvarasto/actions/workflows/main.yml/badge.svg)
+# ohtuvarasto 
+[![GitHub Actions Status](https://github.com/Rishi005/ohtuvarasto/actions/workflows/main.yml/badge.svg)]](https://github.com/Rishi005/ohtuvarasto/action)
