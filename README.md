@@ -1,2 +1,2 @@
 # ohtuvarasto
-This is another change
+![GitHub Actions Status](https://github.com/Rishi005/ohtuvarasto/actions/workflows/main.yml/badge.svg)
