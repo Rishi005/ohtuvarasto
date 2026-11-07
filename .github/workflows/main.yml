@@ -27,4 +27,4 @@ jobs:
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
 
       - name: Run Pylint
-        run: source .venv/bin/activate pylint $(git ls-files '*.py')
+        run: uv run pylint src
